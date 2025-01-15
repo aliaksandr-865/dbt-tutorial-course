@@ -1,4 +1,4 @@
-/venv
+/dbtenv
 .user.yml
 /logs
 logs
